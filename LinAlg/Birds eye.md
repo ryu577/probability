@@ -85,8 +85,6 @@ This proves that a real symmetric operator $\mathcal{A}$ has real eigenvalues (t
 ## Jordan blocks
 One question still stands: how do we know that there are no generalized eigenvectors of rank more than 1, that is, all Jordan blocks are one-dimensional?
 
-
-
 We prove by induction in the number of eigenvectors, namely it turns out that finding an eigenvector (and at least one exists for any matrix) of a symmetric matrix always allows us to generate another eigenvector. So we will run out of dimensions before we run out of eigenvectors, making the matrix diagonalizable.
 
 Suppose $\lambda_1$ is an eigenvalue of $A$ and there exists at least one eigenvector $\boldsymbol{v}_1$ such that $A\boldsymbol{v}_1=\lambda_1 \boldsymbol{v}_1$. Choose an orthonormal basis $\boldsymbol{e}_i$ so that $\boldsymbol{e}_1=\boldsymbol{v}_1$. The change of basis is represented by an orthogonal matrix $V$. In this new basis the matrix associated with $\mathcal{A}$ is $$A_1=V^TAV.$$

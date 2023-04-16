@@ -18,7 +18,7 @@
 		{"type":"text","text":"Jordan normal form","id":"4babb80b35eddbbd","x":471,"y":330,"width":196,"height":60},
 		{"type":"text","text":"Logistic regression","id":"2a46a9c2a239d669","x":-403,"y":-101,"width":159,"height":67,"color":"5"},
 		{"type":"text","text":"Naive Bayes","id":"12b7839e618aed28","x":-376,"y":-205,"width":106,"height":60,"color":"6"},
-		{"id":"d1dc649cdcf600ca","x":444,"y":600,"width":256,"height":80,"type":"text","text":"Proof that symmetric matrices are diagonalizable."}
+		{"id":"d1dc649cdcf600ca","x":441,"y":600,"width":256,"height":80,"type":"text","text":"Proof that symmetric matrices are diagonalizable."}
 	],
 	"edges":[
 		{"id":"946085c05872e5f6","fromNode":"12b7839e618aed28","fromSide":"bottom","toNode":"2a46a9c2a239d669","toSide":"top"},
