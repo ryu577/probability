@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"type":"text","text":"Naive Bayes","id":"12b7839e618aed28","x":-297,"y":-211,"width":106,"height":60,"color":"6"},
+		{"type":"text","text":"Logistic regression","id":"2a46a9c2a239d669","x":-307,"y":-107,"width":126,"height":67,"color":"5"},
+		{"type":"text","text":"e","id":"b9d212208dd2972f","x":-27,"y":-133,"width":52,"height":60,"color":"6"},
+		{"type":"text","text":"Taylor series","id":"56f0484258f1ec3b","x":-138,"y":-2,"width":137,"height":60,"color":"6"},
+		{"type":"text","text":"Growth of fns. Bk: CLR\n#cs ","id":"4d3041fd7d459f21","x":19,"y":2,"width":132,"height":80,"color":"6"},
+		{"type":"text","text":"Compound interest","id":"749aea8593f6e897","x":-85,"y":-236,"width":168,"height":50,"color":"6"},
+		{"type":"text","text":"Geometr->Expon","id":"6b964201c27afe32","x":131,"y":-128,"width":150,"height":50,"color":"6"},
+		{"type":"text","text":"Gamma","id":"2fd60ddc3279f795","x":360,"y":-128,"width":118,"height":50,"color":"6"},
+		{"type":"text","text":"Sports betting","id":"da635ed637f66c67","x":-181,"y":140,"width":154,"height":50,"color":"4"},
+		{"type":"text","text":"How odds work. The logic of sports betting.","id":"edd2f13720c1887a","x":-230,"y":240,"width":252,"height":60},
+		{"type":"text","text":"Poisson->Binom","id":"51ddbd72eeb0d29d","x":124,"y":-40,"width":165,"height":60,"color":"3"},
+		{"id":"15ebaafd00836d7b","x":292,"y":82,"width":148,"height":60,"color":"6","type":"text","text":"Linear algebra"}
+	],
+	"edges":[
+		{"id":"946085c05872e5f6","fromNode":"12b7839e618aed28","fromSide":"bottom","toNode":"2a46a9c2a239d669","toSide":"top"},
+		{"id":"d3fecaa706afb3b9","fromNode":"749aea8593f6e897","fromSide":"bottom","toNode":"b9d212208dd2972f","toSide":"top"},
+		{"id":"93d245dbd82eb663","fromNode":"b9d212208dd2972f","fromSide":"bottom","toNode":"56f0484258f1ec3b","toSide":"top"},
+		{"id":"d56e4fc17b6a9621","fromNode":"b9d212208dd2972f","fromSide":"bottom","toNode":"4d3041fd7d459f21","toSide":"top"},
+		{"id":"43a92d57e88ef07a","fromNode":"b9d212208dd2972f","fromSide":"right","toNode":"6b964201c27afe32","toSide":"left"},
+		{"id":"9197b19203d4bf68","fromNode":"6b964201c27afe32","fromSide":"bottom","toNode":"51ddbd72eeb0d29d","toSide":"top"},
+		{"id":"99cc06dfdb14287b","fromNode":"6b964201c27afe32","fromSide":"right","toNode":"2fd60ddc3279f795","toSide":"left"},
+		{"id":"90827a7854afcd12","fromNode":"da635ed637f66c67","fromSide":"bottom","toNode":"edd2f13720c1887a","toSide":"top"}
+	]
+}
