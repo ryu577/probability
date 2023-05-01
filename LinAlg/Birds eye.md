@@ -39,7 +39,6 @@ $$A^n = (P D P^{-1}) (P D P^{-1}) (P D P^{-1}) = P D^n P^{-1}$$
 > A matrix that isn't diagonalizable is defective. This can happen when the algebraic multiplicity is greater than the geometric multiplicity.
 > Related concept: [Jordan normal form](https://en.wikipedia.org/wiki/Jordan_normal_form).
 
-
 ## Diagonalizable vs invertible
 Taken from [mathexchange](https://math.stackexchange.com/questions/2107610/is-there-any-connection-between-a-matrix-being-invertible-and-being-diagonalizab)
 
@@ -56,7 +55,7 @@ $\begin{pmatrix} 0 & 0 \\ 0 & 0 \\ \end{pmatrix}$
 # Singular value decomposition
 Taken from [Wikipedia SVD article](https://en.wikipedia.org/wiki/Singular_value_decomposition)
 
-For any real matrix $A$, we can express it as:
+For any real matrix $A$ (not necessarily square), we can express it as:
 $$A = U \Sigma V^T$$
 See [mathexchange post](https://math.stackexchange.com/questions/320220/intuitively-what-is-the-difference-between-eigendecomposition-and-singular-valu) for difference between eigen decomposition and SVD.
 

@@ -1,24 +1,25 @@
 {
 	"nodes":[
-		{"type":"text","text":"e [[e_expondist_cmpd]]","id":"b9d212208dd2972f","x":-120,"y":-151,"width":220,"height":50,"color":"6"},
-		{"type":"text","text":"Taylor series","id":"56f0484258f1ec3b","x":-138,"y":-2,"width":137,"height":60,"color":"6"},
-		{"type":"text","text":"Growth of fns. Bk: CLR","id":"4d3041fd7d459f21","x":19,"y":2,"width":181,"height":80,"color":"6"},
-		{"type":"text","text":"Sports betting","id":"da635ed637f66c67","x":-321,"y":112,"width":154,"height":80,"color":"4"},
-		{"type":"text","text":"Compound interest","id":"749aea8593f6e897","x":-94,"y":-261,"width":168,"height":50,"color":"6"},
-		{"type":"text","text":"Geometr->Expon\n[[e_expondist_cmpd#The exponential distribution]]","id":"6b964201c27afe32","x":151,"y":-211,"width":215,"height":138,"color":"6"},
 		{"type":"text","text":"Linear algebra","id":"15ebaafd00836d7b","x":292,"y":162,"width":148,"height":60,"color":"6"},
 		{"type":"text","text":"Vector space","id":"33e27b82f7957973","x":304,"y":275,"width":125,"height":51},
 		{"type":"text","text":"Linear map","id":"edfede0c2ee57dd6","x":304,"y":360,"width":125,"height":60},
 		{"type":"text","text":"Matrix","id":"82c7b98c7578386a","x":317,"y":460,"width":99,"height":60},
-		{"type":"text","text":"Gamma","id":"2fd60ddc3279f795","x":416,"y":-167,"width":118,"height":50,"color":"6"},
-		{"type":"text","text":"Poisson->Binom","id":"51ddbd72eeb0d29d","x":166,"y":-32,"width":186,"height":60,"color":"3"},
-		{"type":"text","text":"How odds work. The logic of sports betting.","id":"edd2f13720c1887a","x":-370,"y":245,"width":252,"height":60},
 		{"type":"text","text":"SVD","id":"efd7b04eb2771c6b","x":151,"y":460,"width":117,"height":60},
 		{"type":"text","text":"Diagonalization/ Eigen decomposition","id":"49450dc5417a98c5","x":475,"y":440,"width":188,"height":100},
 		{"type":"text","text":"Jordan normal form","id":"4babb80b35eddbbd","x":471,"y":330,"width":196,"height":60},
-		{"type":"text","text":"Logistic regression","id":"2a46a9c2a239d669","x":-403,"y":-101,"width":159,"height":67,"color":"5"},
-		{"type":"text","text":"Naive Bayes","id":"12b7839e618aed28","x":-376,"y":-205,"width":106,"height":60,"color":"6"},
-		{"id":"d1dc649cdcf600ca","x":441,"y":600,"width":256,"height":80,"type":"text","text":"Proof that symmetric matrices are diagonalizable."}
+		{"id":"d1dc649cdcf600ca","x":441,"y":600,"width":256,"height":80,"type":"text","text":"Proof that symmetric matrices are diagonalizable."},
+		{"type":"text","text":"Geometr->Expon\n[[e_expondist_cmpd#The exponential distribution]]","id":"6b964201c27afe32","x":164,"y":-170,"width":215,"height":138,"color":"6"},
+		{"type":"text","text":"Gamma","id":"2fd60ddc3279f795","x":429,"y":-126,"width":118,"height":50,"color":"6"},
+		{"type":"text","text":"Poisson->Binom","id":"51ddbd72eeb0d29d","x":179,"y":9,"width":186,"height":60,"color":"3"},
+		{"type":"text","text":"e [[e_expondist_cmpd]]","id":"b9d212208dd2972f","x":-125,"y":-126,"width":220,"height":50,"color":"6"},
+		{"type":"text","text":"Compound interest","id":"749aea8593f6e897","x":-99,"y":-220,"width":168,"height":50,"color":"6"},
+		{"type":"text","text":"Taylor series","id":"56f0484258f1ec3b","x":-125,"y":7,"width":137,"height":60,"color":"6"},
+		{"type":"text","text":"Growth of fns. Bk: CLR","id":"4d3041fd7d459f21","x":12,"y":9,"width":181,"height":80,"color":"6"},
+		{"type":"text","text":"Sports betting","id":"da635ed637f66c67","x":-244,"y":152,"width":154,"height":80,"color":"4"},
+		{"type":"text","text":"Logistic regression","id":"2a46a9c2a239d669","x":-372,"y":-82,"width":159,"height":67,"color":"5"},
+		{"type":"text","text":"Naive Bayes","id":"12b7839e618aed28","x":-345,"y":-186,"width":106,"height":60,"color":"6"},
+		{"id":"bb8ae012afae099e","x":-77,"y":339,"width":250,"height":60,"type":"text","text":"Beta distribution based model."},
+		{"type":"text","text":"How odds work. The logic of sports betting.","id":"edd2f13720c1887a","x":-351,"y":309,"width":252,"height":60}
 	],
 	"edges":[
 		{"id":"946085c05872e5f6","fromNode":"12b7839e618aed28","fromSide":"bottom","toNode":"2a46a9c2a239d669","toSide":"top"},
@@ -35,6 +36,7 @@
 		{"id":"2d5d2464bb51eb7a","fromNode":"82c7b98c7578386a","fromSide":"right","toNode":"49450dc5417a98c5","toSide":"left"},
 		{"id":"d91369885fc82262","fromNode":"82c7b98c7578386a","fromSide":"left","toNode":"efd7b04eb2771c6b","toSide":"right"},
 		{"id":"974d2ee640e40b37","fromNode":"49450dc5417a98c5","fromSide":"top","toNode":"4babb80b35eddbbd","toSide":"bottom"},
-		{"id":"a5c679d2076159e7","fromNode":"49450dc5417a98c5","fromSide":"bottom","toNode":"d1dc649cdcf600ca","toSide":"top"}
+		{"id":"a5c679d2076159e7","fromNode":"49450dc5417a98c5","fromSide":"bottom","toNode":"d1dc649cdcf600ca","toSide":"top"},
+		{"id":"483ba52516279805","fromNode":"da635ed637f66c67","fromSide":"bottom","toNode":"bb8ae012afae099e","toSide":"top"}
 	]
 }
