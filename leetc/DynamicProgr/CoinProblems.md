@@ -24,3 +24,6 @@ def min_chg(a=np.array([1, 2, 5])):
 
 ```
 
+Slightly better solution (improves on space)
+https://stackoverflow.com/questions/76165210/how-would-you-solve-the-minimum-non-constructible-change-problem-with-a-dynamic
+
