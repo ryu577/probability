@@ -29,3 +29,5 @@ f^i(x)/i! = a_i
 $$
 
 Which is how we use the Taylor series to obtain the coefficients of a polynomial that best approximate a function around a point
+
+

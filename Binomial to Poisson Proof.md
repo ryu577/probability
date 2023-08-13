@@ -33,3 +33,4 @@ Step 15: This is just the equation rewritten after doing what's described in pre
 
 Step 16: Now is the cool part. Since we know the two have to be equivalent, we can do some algebraic manipulation and write lambda * d ^k in terms of lambda * t ^k and z. $$z \lambda d^k = \lambda t^k,\lambda d^k = {\frac {\lambda t^k} {z} }  $$
 Step 17: Turns out that's exactly what we need because the z's cancel out and we're left with the poisson PMF. $$P(X=x) = \left(e^{-\lambda t}\lambda t^x /x!\right) \tag{1}$$
+#prob #math 
