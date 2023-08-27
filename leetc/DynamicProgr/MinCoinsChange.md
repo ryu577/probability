@@ -5,7 +5,6 @@ dp = array of length amount+1
 N = number of coins
 k = index value of dp array
 
-
 ~~~Python 
 
     def coinChange(coins, amount):        
