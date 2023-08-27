@@ -31,7 +31,7 @@ PART 1: Base case: prove it works for N = 1 coin.
 4. For all index values of dp array that are not multiples of our only coin and are not the 0th index, the algorithm takes the minimum of infinity and infinity+1 because $dp[k-coin]$ lands on a value with is infinity, so the values stay at infinity. For all index values of dp array that ARE multiples of our only coin, if we designate the multiplier to be M, then $dp[M * coin value]$ goes from infinity to $dp[(M-1) * coin value]+1$
 5. If the last index value of the array is infinity, the change cannot be made. Otherwise, the last index value of the array represents the minimum amount of change to make that amount.
 
-  
+
 PART 2: prove it works for any number of coins
 
 1. We need to use induction because if we show it works for 3 coins, one could always argue that maybe it doesn't work for 4 coins. We need to show that it works for any number of coins by creating a recurrence relatio.
