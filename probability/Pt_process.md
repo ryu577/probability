@@ -8,7 +8,7 @@ keywords: prob, exponential, limit, euler, e, e^x
 
 ![[geomtr_limit.png#invert|300]]
 
-#exponential #prob #math #geometric 
+#exponential #prob #math #prob/geometric 
 ## Limits and where e comes from
 ```python
 x=0.00001
@@ -82,7 +82,7 @@ The particular discrete distribution referenced in the answer above doesn't real
 
 Related to the inspection paradox: 
 https://www.bbk.ac.uk/ms/brooms/teaching/SMF/SMFL5.pdf
-#renewal #prob 
+#prob/renewal #prob 
 keywords: renewal, prob, probability, stochastic, 
 
 Quoting:

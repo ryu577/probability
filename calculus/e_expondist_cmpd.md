@@ -73,4 +73,4 @@ Which is the survival function of the exponential distrubution.
 # References
 [1] https://www.cantorsparadise.com/the-history-of-eulers-number-e-8c982994a39b
 
-#prob #exponential #math #limit 
+#prob #exponential #math #math/limit 

@@ -1,10 +1,11 @@
+
 Description: Min coins to make change
 
 amount = change amount we want to make
 dp = array of length amount+1
 N = number of coins
 k = index value of dp array
-
+# Code
 ~~~Python 
 
     def coinChange(coins, amount):        
@@ -18,7 +19,7 @@ k = index value of dp array
         7 return dp[-1]
 
 ~~~
-
+# Proof
 
 PART 1: Base case: prove it works for N = 1 coin.
 
@@ -50,4 +51,4 @@ PART 2: prove it works for any number of coins
 - It isn't mentioned that the N+1 optimal value will be the smaller among cases 1 and 2.
 
 
-#cs #algorithms #dynprogr 
+#cs #algorithms #cs/dynprogr 

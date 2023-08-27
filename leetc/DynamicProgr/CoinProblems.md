@@ -55,4 +55,4 @@ def min_chg(a):
             return val+1
     return sum(a)+1
 ```
-#dynprogr 
+#cs/dynprogr 
