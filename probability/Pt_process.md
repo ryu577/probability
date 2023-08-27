@@ -1,4 +1,4 @@
-Spun up a blog: [[e_expondist_cmpd]]
+Spun up a blog: [[calculus/e_expondist_cmpd]]
 # Geometric converges to exponential
 [From this mathexchange question](https://math.stackexchange.com/questions/93098/how-to-prove-that-geometric-distributions-converge-to-an-exponential-distributio)
 
@@ -27,7 +27,7 @@ This is probably how inflation eats up your money.
 
 - [ ] [Question on this](https://math.stackexchange.com/questions/4657268/why-does-compound-interest-lead-to-a-function-that-is-the-derivative-of-itself): why is compound interest same as function that is its own derivative?
 ![[origin_e.png#invert|300]]
-Blog: [[e_expondist_cmpd]]
+Blog: [[calculus/e_expondist_cmpd]]
 
 And now, converting Binomial to Poisson with the same methodology.
 ![[BinomToPoisson.png#invert|400]]
