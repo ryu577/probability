@@ -51,4 +51,4 @@ PART 2: prove it works for any number of coins
 - It isn't mentioned that the N+1 optimal value will be the smaller among cases 1 and 2.
 
 
-#cs #algorithms 
+#cs #algorithms #dynprogr 
