@@ -24,7 +24,6 @@ Step 10: First let's expand out the binomial term into its factorial components,
 Step 11: We can cancel out the factorial term on the denominator because it's already baked into the numerator, and we just adjust the numerator to go until k-1 $${\frac{(\frac {t} {d}-{\{\frac {t} {d}}\})+k-1!} {k!}}\lambda d^k e^{-\lambda t}$$
 Step 12: Now we can take d to 0 and the k-1 terms effectively go away because the t/d terms become huge, so we can that t/d expression raised ot the kth power instead of a factorial, which is useful because exponents can be manipulated much more easily than factorials.  $$\lim_{d\to 0} {\frac {1} {k!}} * (\frac {t} {d}-{\{\frac {t} {d}}\})+k-1! * \lambda d^k e^{-\lambda t} $$
 Step 13: This is the result of what I described in prevoius step 
-
 $${\frac {1} {k!}} * (\frac {t} {d}-{\{\frac {t} {d}}\})^k *  \lambda d^k e^{-\lambda t}$$
 
 
