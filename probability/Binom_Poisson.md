@@ -23,9 +23,9 @@ Step 9: Now we just need to figure out what to do with the binomial combinations
 Step 10: First let's expand out the binomial term into its factorial components, while also canceling out the lambdas and breaking the term in square brackets into it's integer and decimal components. $${\frac{\frac {t} {d}-{\{\frac {t} {d}}\}!} {k!({\frac {t} {d}-{\{\frac {t} {d}}\}}-k!)}}\lambda d^k e^{-\lambda t}$$
 Step 11: We can cancel out the factorial term on the denominator because it's already baked into the numerator, and we just adjust the numerator to go until k-1 $${\frac{(\frac {t} {d}-{\{\frac {t} {d}}\})+k-1!} {k!}}\lambda d^k e^{-\lambda t}$$
 Step 12: Now we can take d to 0 and the k-1 terms effectively go away because the t/d terms become huge, so we can that t/d expression raised ot the kth power instead of a factorial, which is useful because exponents can be manipulated much more easily than factorials.  $$\lim_{d\to 0} {\frac {1} {k!}} * (\frac {t} {d}-{\{\frac {t} {d}}\})+k-1! * \lambda d^k e^{-\lambda t} $$
-Step 13: This is the result of what I described in prevoius step $${\frac {1} {k!}} * (\frac {t} {d}-{\{\frac {t} {d}}\})^k *  \lambda d^k e^{-\lambda t}
+Step 13: This is the result of what I described in prevoius step 
 
-$$
+$${\frac {1} {k!}} * (\frac {t} {d}-{\{\frac {t} {d}}\})^k *  \lambda d^k e^{-\lambda t}$$
 
 
 Step 14: Here we need to essentially find a way to get the remaining terms in the Poisson pmf. One thing to try is another substitution. If we look at the original PMF, it's clear that we need t/d term which is being multiplied by lambda * d ^k term to all be equal to lambda * t ^ k, and we would be done. $$ z =\lim_{d\to inf} (\frac {t} {d}-{\{\frac {t} {d}}\})^k$$
