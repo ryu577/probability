@@ -16,7 +16,9 @@ Step 4: Algebraic manipulation of step 3 leads to this newly written form withou
 Step 5: This substitution is to make the equation take the form of compound interest in the limit -> (1+tiny number)^giant number $$ F = {\frac 1 {\lambda d}}$$
 Step 6: We replace $\lambda d$ with $f$ in the part of the equation that we need to become the $e$ component of the poisson pmf.  $${{[\frac {\lambda t} {\lambda d}]} \choose k}\lambda d^k(1-\frac 1 f)^{[f{\lambda t}]-k} $$
 Step 7: - ONLY $e$ term, we use properties of exponents to expand out the  righthand term above, remembering to break the f * lambda * t into the integer and decimal components
+
 $$\lim_{f \to 0}((1-\frac 1 f)^{f{\lambda t}}*(1-\frac 1 f)^{\{{f{\lambda t}}\}}*(1-\frac 1 f)^k)$$
+
 Step 8 - > First term in step 7 becomes the e term below that we were looking for. The other terms have to equal 1 because 1 to any power is 1. $$e^{-\lambda t}$$
 
 Step 9: Now we just need to figure out what to do with the binomial combinations term and the lambda * d to the kth power term. We're close but not there yet. $${{[\frac {\lambda t} {\lambda d}]} \choose k}\lambda d^k e^{-\lambda t}$$
