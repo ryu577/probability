@@ -27,8 +27,8 @@ Step 13: This is the result of what I described in prevoius step
 $${\frac {1} {k!}} * (\frac {t} {d}-{\{\frac {t} {d}}\})^k *  \lambda d^k e^{-\lambda t}$$
 
 
-Step 14: Here we need to essentially find a way to get the remaining terms in the Poisson pmf. One thing to try is another substitution. If we look at the original PMF, it's clear that we need t/d term which is being multiplied by lambda * d ^k term to all be equal to lambda * t ^ k, and we would be done. $$z =\lim_{d\to inf} (\frac {t} {d}-{\{\frac {t} {d}}\})^k$$
-Step 15: This is just the equation rewritten after doing what's described in previous step. $$\lim_{d\to inf} {\frac {1} {k!}} *z \lambda d^k e^{-\lambda t}$$
+Step 14: Here we need to essentially find a way to get the remaining terms in the Poisson pmf. One thing to try is another substitution. If we look at the original PMF, it's clear that we need t/d term which is being multiplied by lambda * d ^k term to all be equal to lambda * t ^ k, and we would be done. $$z =\lim_{d\to \inf} (\frac {t} {d}-{\{\frac {t} {d}}\})^k$$
+Step 15: This is just the equation rewritten after doing what's described in previous step. $$\lim_{d\to \inf} {\frac {1} {k!}} *z \lambda d^k e^{-\lambda t}$$
 
 Step 16: Now is the cool part. Since we know the two have to be equivalent, we can do some algebraic manipulation and write lambda * d ^k in terms of lambda * t ^k and z. $$z \lambda d^k = \lambda t^k,\lambda d^k = {\frac {\lambda t^k} {z} }  $$
 Step 17: Turns out that's exactly what we need because the z's cancel out and we're left with the poisson PMF. $$P(X=x) = \left(e^{-\lambda t}\lambda t^x /x!\right) \tag{1}$$
