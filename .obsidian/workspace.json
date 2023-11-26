@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly/exercises/2311/231112.md",
+                "file": "weekly/exercises/2311/231119.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly/exercises/2311/231112.md",
+                "file": "weekly/exercises/2311/231119.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "weekly/exercises/2311/231112.md",
+                "file": "weekly/exercises/2311/231119.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly/exercises/2311/231112.md"
+                "file": "weekly/exercises/2311/231119.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "89b2fdd1f137ad68",
   "lastOpenFiles": [
+    "media/sterling_approx2.jpg",
+    "media/sterling_approx1.jpg",
+    "weekly/exercises/2311/231112.md",
+    "weekly/exercises/2311/231119.md",
+    "media/reimann_proof_pt_1.jpg",
+    "media/reimann_proof_pt_2.jpg",
     "reading/231113r.md",
     "reading",
     "media/reimann_sum_converge_sandwich.jpg",
@@ -157,7 +163,6 @@
     "weekly/exercises/2310/231012.md",
     "weekly/exercises/2310/231029.md",
     "weekly/exercises/2311/231102.md",
-    "weekly/exercises/2311/231112.md",
     "media/2d_rw_2.jpg",
     "media/2d_rw_1.jpg",
     "SportsBetting.md",
@@ -165,7 +170,6 @@
     "media/harmonic_converge.png",
     "media/Screenshot 2023-11-06 at 1.13.54 PM.png",
     "media/Screenshot 2023-11-06 at 1.12.59 PM.png",
-    "media/Screenshot 2023-11-06 at 1.11.42 PM.png",
     "weekly/exercises/2311"
   ]
 }
