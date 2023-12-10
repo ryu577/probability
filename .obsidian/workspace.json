@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly/exercises/2311/231126.md",
+                "file": "weekly/exercises/2312/231203.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly/exercises/2311/231126.md",
+                "file": "weekly/exercises/2312/231203.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "weekly/exercises/2311/231126.md",
+                "file": "weekly/exercises/2312/231203.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly/exercises/2311/231126.md"
+                "file": "weekly/exercises/2312/231203.md"
               }
             }
           }
@@ -148,10 +148,14 @@
   },
   "active": "89b2fdd1f137ad68",
   "lastOpenFiles": [
+    "weekly/exercises/2311/231126.md",
+    "weekly/exercises/2312/231203.md",
+    "media/e_compound_interest_1.jpg",
+    "media/e_compound_interest_2.jpg",
+    "weekly/exercises/2312",
     "triple_summation.jpg",
     "media/triple_summation.jpg",
     "weekly/exercises/2311/231119.md",
-    "weekly/exercises/2311/231126.md",
     "media/e_irrational_1.jpg",
     "media/e_irrational_2.jpg",
     "weekly/exercises/2310/231008.md",
@@ -163,12 +167,9 @@
     "media/reimann_proof_pt_2.jpg",
     "reading/231113r.md",
     "reading",
-    "media/reimann_sum_converge_sandwich.jpg",
-    "media/2d_rw_3.jpg",
     "weekly/exercises/2310/231001.md",
     "weekly/exercises/2310/231029.md",
     "weekly/exercises/2311/231102.md",
-    "media/2d_rw_2.jpg",
     "SportsBetting.md",
     "weekly/exercises/2311/231105.md",
     "weekly/exercises/2311"
