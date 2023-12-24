@@ -7,3 +7,8 @@ Other that I potentially should/could cover in this module:
 4. Conditional/Joint Probability in the context of sports teammates
 5. Joint distributions in the context of sports teammates
 6. Expected value
+
+
+
+
+$$( A ) and ( B ) $$

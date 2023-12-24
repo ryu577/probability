@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly/exercises/2312/231203.md",
+                "file": "course_content/sports_betting_math_101/Module 1 - High School Math Review (Optional)/Lecture 1 Percents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50b125a6df05d18c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "weekly/exercises/2312/231217.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly/exercises/2312/231203.md",
+                "file": "weekly/exercises/2312/231217.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "weekly/exercises/2312/231203.md",
+                "file": "weekly/exercises/2312/231217.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly/exercises/2312/231203.md"
+                "file": "weekly/exercises/2312/231217.md"
               }
             }
           }
@@ -146,32 +159,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89b2fdd1f137ad68",
+  "active": "50b125a6df05d18c",
   "lastOpenFiles": [
     "weekly/exercises/2311/231126.md",
+    "media/basel_cos_to_sine.png",
+    "media/basel_cos.png",
     "weekly/exercises/2312/231203.md",
+    "weekly/exercises/2312/231210.md",
+    "weekly/exercises/2312/231217.md",
+    "media/log_algebra_problem.png",
+    "weekly/exercises/2311/231112.md",
+    "weekly/exercises/2311/231119.md",
+    "weekly/exercises/2311/231105.md",
+    "weekly/exercises/2309/230917.md",
+    "weekly/exercises/2310/231029.md",
+    "weekly/exercises/2310/231012.md",
+    "weekly/exercises/2310/231008.md",
+    "weekly/exercises/2310/231001.md",
+    "weekly/exercises/2311/231102.md",
+    "course_content/sports_betting_math_101/Module 1 - High School Math Review (Optional)/Lecture 1 Percents.md",
+    "course_content/sports_betting_math_101/Module 2 - Introduction to Probability for Sports Betting/Other ideas.md",
+    "course_content/sports_betting_math_101/Module 1 - High School Math Review (Optional)/Lecture 3 Ratios.md",
+    "course_content/sports_betting_math_101/Module 1 - High School Math Review (Optional)/Lecture 2 Decimals.md",
+    "course_content/sports_betting_math_101/Module 2 - Introduction to Probability for Sports Betting/Lecture 3 What is Sample Size and Why Does it Matter.md",
+    "course_content/sports_betting_math_101/Module 2 - Introduction to Probability for Sports Betting/Lecture 2 How to Calculate the Probability of a Single Event.md",
+    "course_content/sports_betting_math_101/Module 2 - Introduction to Probability for Sports Betting/Lecture 1 Understanding the Sample Space for Sports Betting.md",
+    "course_content/sports_betting_math_101/Module 2 - Introduction to Probability for Sports Betting",
+    "course_content/sports_betting_math_101/Module 1 - High School Math Review (Optional)",
+    "course_content/sports_betting_math_101/Module 1 - High School Math Review (Optional)/Quiz Module 1.md",
+    "SportsBetting.md",
+    "course_content/sports_betting_math_101",
+    "Untitled 1",
+    "course_content",
+    "Untitled",
     "media/e_compound_interest_1.jpg",
     "media/e_compound_interest_2.jpg",
     "weekly/exercises/2312",
     "triple_summation.jpg",
     "media/triple_summation.jpg",
-    "weekly/exercises/2311/231119.md",
     "media/e_irrational_1.jpg",
     "media/e_irrational_2.jpg",
-    "weekly/exercises/2310/231008.md",
-    "weekly/exercises/2310/231012.md",
     "media/sterling_approx2.jpg",
-    "media/sterling_approx1.jpg",
-    "weekly/exercises/2311/231112.md",
-    "media/reimann_proof_pt_1.jpg",
-    "media/reimann_proof_pt_2.jpg",
     "reading/231113r.md",
     "reading",
-    "weekly/exercises/2310/231001.md",
-    "weekly/exercises/2310/231029.md",
-    "weekly/exercises/2311/231102.md",
-    "SportsBetting.md",
-    "weekly/exercises/2311/231105.md",
     "weekly/exercises/2311"
   ]
 }
