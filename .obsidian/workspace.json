@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly/exercises/2312/231217.md",
+                "file": "weekly/exercises/2312/231224.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly/exercises/2312/231217.md",
+                "file": "weekly/exercises/2312/231224.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "weekly/exercises/2312/231217.md",
+                "file": "weekly/exercises/2312/231224.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly/exercises/2312/231217.md"
+                "file": "weekly/exercises/2312/231224.md"
               }
             }
           }
@@ -161,12 +161,13 @@
   },
   "active": "50b125a6df05d18c",
   "lastOpenFiles": [
+    "weekly/exercises/2312/231217.md",
+    "weekly/exercises/2312/231224.md",
     "weekly/exercises/2311/231126.md",
     "media/basel_cos_to_sine.png",
     "media/basel_cos.png",
     "weekly/exercises/2312/231203.md",
     "weekly/exercises/2312/231210.md",
-    "weekly/exercises/2312/231217.md",
     "media/log_algebra_problem.png",
     "weekly/exercises/2311/231112.md",
     "weekly/exercises/2311/231119.md",
