@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly/exercises/2312/231217.md",
+                "file": "weekly/exercises/2312/231231.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly/exercises/2312/231217.md",
+                "file": "weekly/exercises/2312/231231.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "weekly/exercises/2312/231217.md",
+                "file": "weekly/exercises/2312/231231.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly/exercises/2312/231217.md"
+                "file": "weekly/exercises/2312/231231.md"
               }
             }
           }
@@ -161,15 +161,22 @@
   },
   "active": "50b125a6df05d18c",
   "lastOpenFiles": [
-    "weekly/exercises/2311/231126.md",
-    "media/basel_cos_to_sine.png",
-    "media/basel_cos.png",
-    "weekly/exercises/2312/231203.md",
-    "weekly/exercises/2312/231210.md",
+    "media/rational_root_formula_3.jpeg",
+    "media/rational_root_formula_2.jpeg",
+    "media/rational_root_formula_1.jpeg",
     "weekly/exercises/2312/231217.md",
-    "media/log_algebra_problem.png",
+    "weekly/exercises/2312/231231.md",
+    "media/algebra_pt_1.png",
+    "media/algebra_pt_2.png",
     "weekly/exercises/2311/231112.md",
     "weekly/exercises/2311/231119.md",
+    "weekly/exercises/2311/231126.md",
+    "weekly/exercises/2312/231203.md",
+    "weekly/exercises/2312/231210.md",
+    "weekly/exercises/2312/231224.md",
+    "media/basel_cos_to_sine.png",
+    "media/basel_cos.png",
+    "media/log_algebra_problem.png",
     "weekly/exercises/2311/231105.md",
     "weekly/exercises/2309/230917.md",
     "weekly/exercises/2310/231029.md",
@@ -196,10 +203,6 @@
     "media/e_compound_interest_2.jpg",
     "weekly/exercises/2312",
     "triple_summation.jpg",
-    "media/triple_summation.jpg",
-    "media/e_irrational_1.jpg",
-    "media/e_irrational_2.jpg",
-    "media/sterling_approx2.jpg",
     "reading/231113r.md",
     "reading",
     "weekly/exercises/2311"
