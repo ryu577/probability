@@ -9,3 +9,6 @@ https://web.stanford.edu/~boyd/vmls/vmls.pdf
 
 
 Course: https://www.youtube.com/playlist?list=PL05umP7R6ij2YE8rRJSb-olDNbntAQ_Bx
+
+
+Finance Machine Learning Textbook

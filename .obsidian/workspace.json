@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly/exercises/2312/231231.md",
+                "file": "weekly/exercises/2401/240107.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c79c36087ff6696",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly/exercises/2312/231231.md",
+                "file": "weekly/exercises/2401/240107.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "weekly/exercises/2312/231231.md",
+                "file": "weekly/exercises/2401/240107.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly/exercises/2312/231231.md"
+                "file": "weekly/exercises/2401/240107.md"
               }
             }
           }
@@ -161,11 +173,18 @@
   },
   "active": "50b125a6df05d18c",
   "lastOpenFiles": [
+    "weekly/exercises/2312/231231.md",
+    "weekly/exercises/2401/240107.md",
+    "media/markov_linear_algebra.png",
+    "media/algebra_2.png",
+    "media/algebra_1.png",
+    "media/markov_probability_vector_proof.png",
+    "Resources.md",
+    "weekly/exercises/2401",
     "media/rational_root_formula_3.jpeg",
     "media/rational_root_formula_2.jpeg",
     "media/rational_root_formula_1.jpeg",
     "weekly/exercises/2312/231217.md",
-    "weekly/exercises/2312/231231.md",
     "media/algebra_pt_1.png",
     "media/algebra_pt_2.png",
     "weekly/exercises/2311/231112.md",
@@ -175,8 +194,6 @@
     "weekly/exercises/2312/231210.md",
     "weekly/exercises/2312/231224.md",
     "media/basel_cos_to_sine.png",
-    "media/basel_cos.png",
-    "media/log_algebra_problem.png",
     "weekly/exercises/2311/231105.md",
     "weekly/exercises/2309/230917.md",
     "weekly/exercises/2310/231029.md",
@@ -194,16 +211,11 @@
     "course_content/sports_betting_math_101/Module 2 - Introduction to Probability for Sports Betting",
     "course_content/sports_betting_math_101/Module 1 - High School Math Review (Optional)",
     "course_content/sports_betting_math_101/Module 1 - High School Math Review (Optional)/Quiz Module 1.md",
-    "SportsBetting.md",
     "course_content/sports_betting_math_101",
     "Untitled 1",
     "course_content",
     "Untitled",
-    "media/e_compound_interest_1.jpg",
-    "media/e_compound_interest_2.jpg",
     "weekly/exercises/2312",
-    "triple_summation.jpg",
-    "reading/231113r.md",
     "reading",
     "weekly/exercises/2311"
   ]
