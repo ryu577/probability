@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly/exercises/2401/240115.md",
+                "file": "weekly/exercises/2401/240121.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly/exercises/2401/240115.md",
+                "file": "weekly/exercises/2401/240121.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "weekly/exercises/2401/240115.md",
+                "file": "weekly/exercises/2401/240121.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly/exercises/2401/240115.md"
+                "file": "weekly/exercises/2401/240121.md"
               }
             }
           }
@@ -173,25 +173,29 @@
   },
   "active": "50b125a6df05d18c",
   "lastOpenFiles": [
-    "weekly/exercises/2401/240107.md",
-    "media/steady_state_proof.png",
+    "weekly/exercises/2311/231126.md",
     "weekly/exercises/2401/240115.md",
+    "weekly/exercises/2401/240121.md",
+    "weekly/exercises/2401/240107.md",
+    "weekly/exercises/2312/231231.md",
+    "media/hard_algebra_pt1.png",
+    "media/proof_markov_matrix_dependence.png",
+    "SportsBetting.md",
+    "probability/Binom_Poisson.md",
+    "probability/Beta distribution.md",
+    "Resources.md",
+    "media/steady_state_proof.png",
     "media/regression_system_comparison.png",
     "media/covariance.png",
-    "weekly/exercises/2312/231231.md",
     "media/markov_linear_algebra.png",
     "media/algebra_2.png",
     "media/algebra_1.png",
     "media/markov_probability_vector_proof.png",
-    "Resources.md",
     "weekly/exercises/2401",
     "media/rational_root_formula_3.jpeg",
-    "media/rational_root_formula_2.jpeg",
-    "media/rational_root_formula_1.jpeg",
     "weekly/exercises/2312/231217.md",
     "weekly/exercises/2311/231112.md",
     "weekly/exercises/2311/231119.md",
-    "weekly/exercises/2311/231126.md",
     "weekly/exercises/2312/231203.md",
     "weekly/exercises/2312/231210.md",
     "weekly/exercises/2312/231224.md",
@@ -205,10 +209,6 @@
     "course_content/sports_betting_math_101/Module 1 - High School Math Review (Optional)/Lecture 1 Percents.md",
     "course_content/sports_betting_math_101/Module 2 - Introduction to Probability for Sports Betting/Other ideas.md",
     "course_content/sports_betting_math_101/Module 1 - High School Math Review (Optional)/Lecture 3 Ratios.md",
-    "course_content/sports_betting_math_101/Module 1 - High School Math Review (Optional)/Lecture 2 Decimals.md",
-    "course_content/sports_betting_math_101/Module 2 - Introduction to Probability for Sports Betting/Lecture 3 What is Sample Size and Why Does it Matter.md",
-    "course_content/sports_betting_math_101/Module 2 - Introduction to Probability for Sports Betting/Lecture 2 How to Calculate the Probability of a Single Event.md",
-    "course_content/sports_betting_math_101/Module 2 - Introduction to Probability for Sports Betting/Lecture 1 Understanding the Sample Space for Sports Betting.md",
     "course_content/sports_betting_math_101/Module 2 - Introduction to Probability for Sports Betting",
     "course_content/sports_betting_math_101/Module 1 - High School Math Review (Optional)",
     "course_content/sports_betting_math_101",

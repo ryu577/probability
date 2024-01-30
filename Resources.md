@@ -12,3 +12,10 @@ Course: https://www.youtube.com/playlist?list=PL05umP7R6ij2YE8rRJSb-olDNbntAQ_Bx
 
 
 Finance Machine Learning Textbook
+
+
+Linear Algebra Through Geometry
+[[Banchoff,Wermer]Linear Algebra Through Geometry.pdf (cimat.mx)](https://www.cimat.mx/~gil/docencia/2021/geometria2021/[Banchoff,Wermer]Linear%20Algebra%20Through%20Geometry.pdf)
+
+
+Hypothesis Testing and Regular Statistics (Seem to be very important in data science interviews. They dont really seem to ask much about Bayesian stuff)
