@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/77909122/how-would-i-show-the-parenthesis-theorem-doesnt-work-for-breadth-first-search/77909571#77909571
+#cs/graph keywords: bfs breath first search parenthesis theorem dfs depth first search
