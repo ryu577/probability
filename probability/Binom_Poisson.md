@@ -10,14 +10,15 @@ Step 1: In a Binomial, n is the number of trials. That can be written as total t
 $$n =\left[\frac t d\right]$$
 
 Step 2: Here we just rewrite the Binomial with n replaced by the t/d mentioned above $${{[\frac t d]} \choose k}p^k(1-p)^{[\frac t d]-k} $$
-Step 3: This step always confuses me, future self, so listen carefully. The number $e$ is compound interest taken to the limit. In order for that to happen and the answer not be infinity or zero, both $d$ (distance between trials) and $p$ (probability of success) have to go to 0. Think Steph Curry 3 point shots, if $d$ goes to zero and $p$ stays at 50%, the guy will make infinite 3 pointers. Conversely if p goes to 0 and d doesn't go to zero, the guy will never ever make a shot. Now in order for d and p to go to zero together, they have to both intersect the origin at the same time (y intercept of zero). One way to do that is a simple line with no intercept term. Classic y = mx + b but in this case y = d, m = p/lambda, and b = 0. There are other ways for the y intercept to  be 0 like y = x^2 but it would just lead to a trivial answer. (question for rohit, why? don't both go to zero still if it was d = (p/lambda)^2)  $${d = \frac p \lambda},   p=\lambda d$$ 
+Step 3: This step always confuses me, future self, so listen carefully. The number $e$ is compound interest taken to the limit. In order for that to happen and the answer not be infinity or zero, both $d$ (distance between trials) and $p$ (probability of success) have to go to 0. Think Steph Curry 3 point shots, if $d$ goes to zero and $p$ stays at 50%, the guy will make infinite 3 pointers. Conversely if p goes to 0 and d doesn't go to zero, the guy will never ever make a shot. Now in order for d and p to go to zero together, they have to both intersect the origin at the same time (y intercept of zero). One way to do that is a simple line with no intercept term. Classic y = mx + b but in this case y = d, m = p/lambda, and b = 0. There are other ways for the y intercept to  be 0 like y = x^2 but it would just lead to a trivial answer. (question for rohit, why? don't both go to zero still if it was d = (p/lambda)^2)  $$
+.$$ 
 Step 4: Algebraic manipulation of step 3 leads to this newly written form without any P's in the equation $${{[\frac {\lambda t} {\lambda d}]} \choose k}\lambda d^k(1-\lambda d)^{[\frac {\lambda t} {\lambda d}]-k} $$
 
 Step 5: This substitution is to make the equation take the form of compound interest in the limit -> (1+tiny number)^giant number $$ F = {\frac 1 {\lambda d}}$$
 Step 6: We replace $\lambda d$ with $f$ in the part of the equation that we need to become the $e$ component of the poisson pmf.  $${{[\frac {\lambda t} {\lambda d}]} \choose k}\lambda d^k(1-\frac 1 f)^{[f{\lambda t}]-k} $$
 Step 7: - ONLY $e$ term, we use properties of exponents to expand out the  righthand term above, remembering to break the f * lambda * t into the integer and decimal components
 
-$$\lim_{f \to 0}((1-\frac{1}{f})^{f{\lambda t}}*(1-\frac{1}{f})^{\{{f{\lambda t}}\}}*(1-\frac{1}{f})^k)$$
+$$\lim_{f \to \infty}((1-\frac{1}{f})^{f{\lambda t}}*(1-\frac{1}{f})^{\{{f{\lambda t}}\}}*(1-\frac{1}{f})^k)$$
 
 Step 8 - > First term in step 7 becomes the e term below that we were looking for. The other terms have to equal 1 because 1 to any power is 1. $$e^{-\lambda t}$$
 

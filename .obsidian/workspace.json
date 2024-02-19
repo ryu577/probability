@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly/exercises/2402/240204.md",
+                "file": "weekly/exercises/2402/240211.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly/exercises/2402/240204.md",
+                "file": "weekly/exercises/2402/240211.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "weekly/exercises/2402/240204.md",
+                "file": "weekly/exercises/2402/240211.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly/exercises/2402/240204.md"
+                "file": "weekly/exercises/2402/240211.md"
               }
             }
           }
@@ -149,12 +149,20 @@
   "active": "54ca36eecb16b063",
   "lastOpenFiles": [
     "weekly/scratch/2402/240210.md",
+    "weekly/exercises/2402/240211.md",
+    "weekly/lessonNotes/2402/240204.md",
+    "weekly/scratch/2308/230813.md",
+    "probability/Binom_Poisson.md",
+    "2024-02-04.md",
     "weekly/exercises/2402/240204.md",
+    "weekly/performance/2402/240208.md",
+    "weekly/performance/2402/240206.md",
+    "weekly/performance/2402",
+    "weekly/performance",
     "media/simplify_markov_chain_pt_2.jpg",
     "media/simplify_markov_chain_pt_1.jpg",
     "weekly/exercises/2401/240128.md",
     "media/dfs_edges.jpeg",
-    "weekly/scratch/2308/230813.md",
     "weekly/exercises/2311/231112.md",
     "media/1d_random_walk_pt2.png",
     "media/1d_random_walk_pt1.png",
@@ -174,25 +182,18 @@
     "weekly/exercises/2308/230827.md",
     "weekly/exercises/2308/230831.md",
     "weekly/exercises/2308/230820.md",
-    "weekly/exercises/2401/240107.md",
-    "weekly/exercises/2312/231231.md",
-    "weekly/lessonNotes/2402/240204.md",
     "weekly/lessonNotes/2402",
     "weekly/lessonNotes",
     "weekly/exercises/2402",
     "media/basel_sum.png",
-    "leetc/graphs/Traversal.md",
     "leetc/graphs",
     "python_files/beta_regression.py",
     "python_files",
     "media/bfs_dfs_parenthesis.jpg",
     "media/IMG_4093.jpg",
-    "weekly/exercises/2401/240121.md",
     "media/e_lambda_einverse.png",
     "Untitled.canvas",
     "media/convergence_1_x2_shift_by_1.png",
-    "weekly/exercises/2401",
-    "course_content/sports_betting_math_101/Module 2 - Introduction to Probability for Sports Betting",
-    "course_content/sports_betting_math_101/Module 1 - High School Math Review (Optional)"
+    "weekly/exercises/2401"
   ]
 }
