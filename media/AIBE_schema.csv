@@ -1,0 +1,15 @@
+Table 1: User,,,,,,,,,,,
+Example below:,,,,,,,,,,,
+Time Registered,User_ID,Username,First Name,Last Name,Email,Location,Phone,Plan,Status,,Events that will modify left table:
+3/10/24 4:00 PM,123424,rohitp,Rohit,Pandey,rpandey@gmail.com,"Seattle, WA",984-934-9381,7FREE/monthly,Inactive,,New user signs up - ADD ROW
+,,,,,,,,,,,Existing user cancels - MODIFY: Status becomes Inactive
+Table 2: Membership Actions,,,,,,,,,,,Existing user pauses membership - MODIFY: Status become Paused
+Time,User_ID,Action,,,,,,,,,Existing user switches membership - MODIFY: Plan column changes
+3/10/24 4:00 PM,123424,SIGN UP,,,After 2-3 years delete records in this table,,,,,,
+3/10/24 5:00 PM,123424,CANCEL,,,,,,,,,
+,,,,,,,,,,,
+Table 3: Payments,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Table 4: Referral System,,,,,,,,,,,
