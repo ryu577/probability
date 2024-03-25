@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly/exercises/2403/240310.md",
+                "file": "weekly/exercises/2403/240317.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5b1d0bd53fa35e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "weekly/exercises/2403/240317.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly/exercises/2403/240310.md",
+                "file": "weekly/exercises/2403/240317.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "weekly/exercises/2403/240310.md",
+                "file": "weekly/exercises/2403/240317.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly/exercises/2403/240310.md"
+                "file": "weekly/exercises/2403/240317.md"
               }
             }
           }
@@ -159,10 +171,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a33114a680d90dd0",
+  "active": "a5b1d0bd53fa35e3",
   "lastOpenFiles": [
-    "weekly/exercises/2311/231119.md",
+    "media/AIBE_schema.csv",
+    "media/AIBE Data Schema Design - Sheet1.csv",
     "weekly/exercises/2403/240310.md",
+    "weekly/exercises/2403/240317.md",
+    "media/correlation_regression.jpg",
+    "weekly/exercises/2311/231119.md",
     "media/ross_4_25_pt1.jpg",
     "media/ross_4_25_pt2.jpg",
     "weekly/exercises/2403/240303.md",
@@ -194,19 +210,15 @@
     "weekly/lessonNotes/2402/240204.md",
     "weekly/scratch/2308/230813.md",
     "probability/Binom_Poisson.md",
-    "weekly/performance/2402/240206.md",
     "weekly/performance/2402",
     "weekly/performance",
     "media/simplify_markov_chain_pt_2.jpg",
-    "media/simplify_markov_chain_pt_1.jpg",
-    "weekly/exercises/2311/231112.md",
     "weekly/scratch/2402",
     "weekly/lessonNotes/2402",
     "weekly/lessonNotes",
     "weekly/exercises/2402",
     "leetc/graphs",
     "python_files/beta_regression.py",
-    "python_files",
     "Untitled.canvas"
   ]
 }
