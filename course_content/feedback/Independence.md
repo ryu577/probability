@@ -1,0 +1,5 @@
+- "in real life and it’s sports betting:; change to "in sports betting"
+- You could mention $P(A \cap B) = P(A|B).P(B)$ and with independence, $P(A|B) = P(A)$. I think this is a much more natural definition. Also builds on the concepts of conditional probability you just developed in the previous section.
+- $P(A|B)P(A)$ an equality sign is missing.
+- You should mention that your example is manufactured and that things like sample size will play a role and the percentages will be just estimates. These kinds of examples will plant the wrong idea in the minds of beginners.
+	- The real way to check for independence with data is the Chi-squared test: https://en.wikipedia.org/wiki/Chi-squared_test.

@@ -1,0 +1,2 @@
+- question 1: you can't compare a probability to a rate.
+- Why is there an asterix after the third question?

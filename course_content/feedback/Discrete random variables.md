@@ -1,0 +1,2 @@
+- I don't think you should imply that discrete and continuous random variables are the only types. There can be random variables over complex fields or any field for that matter.
+- Don't say discrete random variables are more relevant to sports betting. Its a very broad statement and depends on many factors.
