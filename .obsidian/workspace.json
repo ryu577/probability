@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-30.md",
+                "file": "weekly/exercises/2405/240527.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c22d70633661b64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "weekly/exercises/2406/240617.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86ecfa5fe321ca6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "weekly/exercises/2406/240617.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-30.md",
+                "file": "weekly/exercises/2406/240617.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-30.md",
+                "file": "weekly/exercises/2406/240617.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-30.md"
+                "file": "weekly/exercises/2406/240617.md"
               }
             }
           }
@@ -159,18 +183,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6928a44207b6dae",
+  "active": "86ecfa5fe321ca6a",
   "lastOpenFiles": [
+    "weekly/exercises/2308/230831.md",
+    "weekly/exercises/2308/230827.md",
+    "weekly/exercises/2308/230820.md",
+    "weekly/exercises/2406/240617.md",
+    "media/proof_4.4_pt2.jpg",
+    "media/proof_4.4_pt3.jpg",
+    "media/proof_4.4_pt1.jpg",
+    "weekly/exercises/2405/240527.md",
+    "weekly/exercises/2406/240609.md",
+    "weekly/exercises/2406/240603.md",
+    "weekly/exercises/2406",
+    "weekly/exercises/2402/240211.md",
+    "weekly/exercises/2402/240204.md",
+    "weekly/exercises/2312/231231.md",
+    "2024-05-30.md",
     "weekly/exercises/2405/240519.md",
     "weekly/lessonNotes/2402/240204.md",
     "Untitled 2.canvas",
-    "2024-05-30.md",
     "Untitled 1.canvas",
     "leetc/DynamicProgr/RodCutting.md",
     "weekly/performance/2402/240224.md",
     "2024-02-04.md",
-    "weekly/exercises/2402/240211.md",
-    "weekly/exercises/2402/240204.md",
     "weekly/exercises/2405/240505.md",
     "weekly/exercises/2404/240428_solutions.md",
     "weekly/scratch/2402/240210.md",
@@ -181,33 +217,22 @@
     "weekly/exercises/2403/240303.md",
     "weekly/exercises/2403/240310.md",
     "weekly/exercises/2403/240325.md",
-    "weekly/exercises/2403/240331.md",
     "media/matrix_mult_tree.jpg",
     "weekly/exercises/2405",
     "weekly/exercises/2404",
     "media/correlation_regression.jpg",
     "media/AIBE_schema.csv",
-    "weekly/exercises/2310/231001.md",
-    "weekly/scratch/2308/230813.md",
     "media/AIBE Data Schema Design - Sheet1.csv",
-    "weekly/exercises/2311/231119.md",
     "media/ross_4_25_pt1.jpg",
     "media/ross_4_25_pt2.jpg",
-    "weekly/exercises/2310/231008.md",
     "weekly/exercises/2403",
-    "weekly/exercises/2308/230831.md",
-    "leetc/DynamicProgr/MinCoinsChange.md",
     "ross_424_pt1 1.jpg",
     "ross_434_pt2 1.jpg",
     "ross_424_pt1.jpg",
-    "ross_434_pt2.jpg",
-    "media/ross_424_pt1.jpg",
-    "media/ross_434_pt2.jpg",
     "weekly/performance/2402",
     "weekly/performance",
     "weekly/scratch/2402",
     "weekly/lessonNotes/2402",
-    "weekly/lessonNotes",
     "Untitled.canvas"
   ]
 }
