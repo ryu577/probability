@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly/exercises/2406/240617.md",
+                "file": "weekly/exercises/2407/240717.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0cff60b0c63f47c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "weekly/exercises/2407/240717.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly/exercises/2406/240617.md",
+                "file": "weekly/exercises/2407/240717.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "weekly/exercises/2406/240617.md",
+                "file": "weekly/exercises/2407/240717.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly/exercises/2406/240617.md"
+                "file": "weekly/exercises/2407/240717.md"
               }
             }
           }
@@ -183,17 +195,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86ecfa5fe321ca6a",
+  "active": "f0cff60b0c63f47c",
   "lastOpenFiles": [
+    "weekly/exercises/2310/231008.md",
+    "weekly/exercises/2310/231012.md",
+    "weekly/exercises/2407/240717.md",
+    "media/simplex_log_pt1.jpg",
+    "media/simplex_log_pt2.jpg",
+    "media/simplex_log_pt3.jpg",
+    "weekly/exercises/2406/240617.md",
+    "weekly/exercises/2406/240609.md",
+    "weekly/exercises/2407",
     "weekly/exercises/2308/230831.md",
     "weekly/exercises/2308/230827.md",
     "weekly/exercises/2308/230820.md",
-    "weekly/exercises/2406/240617.md",
     "media/proof_4.4_pt2.jpg",
     "media/proof_4.4_pt3.jpg",
     "media/proof_4.4_pt1.jpg",
     "weekly/exercises/2405/240527.md",
-    "weekly/exercises/2406/240609.md",
     "weekly/exercises/2406/240603.md",
     "weekly/exercises/2406",
     "weekly/exercises/2402/240211.md",
@@ -214,9 +233,6 @@
     "weekly/exercises/2403/240317.md",
     "weekly/exercises/2402/240218.md",
     "weekly/exercises/2402/240225.md",
-    "weekly/exercises/2403/240303.md",
-    "weekly/exercises/2403/240310.md",
-    "weekly/exercises/2403/240325.md",
     "media/matrix_mult_tree.jpg",
     "weekly/exercises/2405",
     "weekly/exercises/2404",
@@ -226,13 +242,9 @@
     "media/ross_4_25_pt1.jpg",
     "media/ross_4_25_pt2.jpg",
     "weekly/exercises/2403",
-    "ross_424_pt1 1.jpg",
-    "ross_434_pt2 1.jpg",
-    "ross_424_pt1.jpg",
     "weekly/performance/2402",
     "weekly/performance",
     "weekly/scratch/2402",
-    "weekly/lessonNotes/2402",
     "Untitled.canvas"
   ]
 }
