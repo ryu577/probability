@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly/exercises/2407/240717.md",
+                "file": "weekly/exercises/2407/240728.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly/exercises/2407/240717.md",
+                "file": "weekly/exercises/2407/240728.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "weekly/exercises/2407/240717.md",
+                "file": "weekly/exercises/2407/240728.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly/exercises/2407/240717.md"
+                "file": "weekly/exercises/2407/240728.md"
               }
             }
           }
@@ -197,17 +197,17 @@
   },
   "active": "f0cff60b0c63f47c",
   "lastOpenFiles": [
+    "weekly/exercises/2308/230831.md",
     "weekly/exercises/2407/240728.md",
+    "weekly/exercises/2406/240617.md",
+    "weekly/exercises/2407/240717.md",
     "weekly/exercises/2310/231008.md",
     "weekly/exercises/2310/231012.md",
-    "weekly/exercises/2407/240717.md",
     "media/simplex_log_pt1.jpg",
     "media/simplex_log_pt2.jpg",
     "media/simplex_log_pt3.jpg",
-    "weekly/exercises/2406/240617.md",
     "weekly/exercises/2406/240609.md",
     "weekly/exercises/2407",
-    "weekly/exercises/2308/230831.md",
     "weekly/exercises/2308/230827.md",
     "weekly/exercises/2308/230820.md",
     "media/proof_4.4_pt2.jpg",
