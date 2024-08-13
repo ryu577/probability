@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly/exercises/2407/240728.md",
+                "file": "weekly/exercises/2408/240804.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly/exercises/2407/240728.md",
+                "file": "weekly/exercises/2408/240804.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "weekly/exercises/2407/240728.md",
+                "file": "weekly/exercises/2408/240804.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly/exercises/2407/240728.md"
+                "file": "weekly/exercises/2408/240804.md"
               }
             }
           }
@@ -197,10 +197,16 @@
   },
   "active": "f0cff60b0c63f47c",
   "lastOpenFiles": [
-    "weekly/exercises/2308/230831.md",
-    "weekly/exercises/2407/240728.md",
-    "weekly/exercises/2406/240617.md",
     "weekly/exercises/2407/240717.md",
+    "weekly/exercises/2407/240728.md",
+    "weekly/exercises/2408/240804.md",
+    "media/average_case_binary_search_pt2-min.jpg",
+    "media/aveage_case_binary_search_pt1-min.jpg",
+    "media/worst_case_binary_search_2-min.jpg",
+    "media/worst_case_binary_search_1-min.jpg",
+    "weekly/exercises/2408",
+    "weekly/exercises/2308/230831.md",
+    "weekly/exercises/2406/240617.md",
     "weekly/exercises/2310/231008.md",
     "weekly/exercises/2310/231012.md",
     "media/simplex_log_pt1.jpg",
@@ -231,20 +237,13 @@
     "weekly/exercises/2404/240428_solutions.md",
     "weekly/scratch/2402/240210.md",
     "weekly/exercises/2404/240428.md",
-    "weekly/exercises/2403/240317.md",
-    "weekly/exercises/2402/240218.md",
-    "media/matrix_mult_tree.jpg",
     "weekly/exercises/2405",
     "weekly/exercises/2404",
-    "media/correlation_regression.jpg",
     "media/AIBE_schema.csv",
     "media/AIBE Data Schema Design - Sheet1.csv",
-    "media/ross_4_25_pt1.jpg",
-    "media/ross_4_25_pt2.jpg",
     "weekly/exercises/2403",
     "weekly/performance/2402",
     "weekly/performance",
-    "weekly/scratch/2402",
     "Untitled.canvas"
   ]
 }
