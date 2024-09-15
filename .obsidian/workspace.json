@@ -1,67 +1,67 @@
 {
   "main": {
-    "id": "52f7b4852816e00f",
+    "id": "046a10abe966586f",
     "type": "split",
     "children": [
       {
-        "id": "f5fd4f1262f69e9d",
+        "id": "83ef324276e6c216",
         "type": "tabs",
         "children": [
           {
-            "id": "54ca36eecb16b063",
+            "id": "f27d034a99987da7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly/exercises/2402/240218.md",
+                "file": "weekly/exercises/2401/240128.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c6928a44207b6dae",
+            "id": "84f9b45b7a4421ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly/exercises/2405/240527.md",
+                "file": "weekly/exercises/2401/240128.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7c22d70633661b64",
+            "id": "4c4b1d2e4c93d603",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly/exercises/2406/240617.md",
+                "file": "weekly/exercises/2404/240428.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "86ecfa5fe321ca6a",
+            "id": "3fc67e5a75352ead",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly/exercises/2407/240717.md",
+                "file": "weekly/exercises/2404/240428.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f0cff60b0c63f47c",
+            "id": "2a32522ff14b2c90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly/exercises/2408/240804.md",
+                "file": "weekly/exercises/2409/240908.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,15 +74,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9bb8984498b41f3c",
+    "id": "4bada6b870a69585",
     "type": "split",
     "children": [
       {
-        "id": "d8c93a016ee93cdf",
+        "id": "ac4943a3fba16313",
         "type": "tabs",
         "children": [
           {
-            "id": "92a09732d65a935e",
+            "id": "1594a29304671efa",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "764d622ddcea6030",
+            "id": "3f6f032a495bf5a5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -107,7 +107,15 @@
             }
           },
           {
-            "id": "feed103a46b99c4d",
+            "id": "18030ab1c1f6b047",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "12fa9c1701cfdd47",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -118,23 +126,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "ac28b655debd4664",
+    "id": "6a6ab6869c50c2af",
     "type": "split",
     "children": [
       {
-        "id": "1a178275c24fbb3f",
+        "id": "9337e2790bd606a5",
         "type": "tabs",
         "children": [
           {
-            "id": "8ec184acb3ac7f3d",
+            "id": "10a034743343e92a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly/exercises/2408/240804.md",
+                "file": "weekly/exercises/2409/240908.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,19 +154,19 @@
             }
           },
           {
-            "id": "5c6da852b038803f",
+            "id": "103a17628d5c9c68",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "weekly/exercises/2408/240804.md",
+                "file": "weekly/exercises/2409/240908.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a09be75935c8941f",
+            "id": "df46eae734160b6e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -169,21 +177,21 @@
             }
           },
           {
-            "id": "b8a265d2d5de3b4c",
+            "id": "4937f73d640c29dc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly/exercises/2408/240804.md"
+                "file": "weekly/exercises/2409/240908.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,55 +203,57 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0cff60b0c63f47c",
+  "active": "2a32522ff14b2c90",
   "lastOpenFiles": [
-    "weekly/exercises/2407/240717.md",
-    "weekly/exercises/2407/240728.md",
+    "weekly/exercises/2409/240904.md",
+    "weekly/exercises/2409/240908.md",
+    "weekly/exercises/2408/240825.md",
+    "weekly/exercises/2409",
+    "weekly/exercises/2408/240818.md",
     "weekly/exercises/2408/240804.md",
-    "media/average_case_binary_search_pt2-min.jpg",
-    "media/aveage_case_binary_search_pt1-min.jpg",
+    "weekly/exercises/2408/240815.md",
     "media/worst_case_binary_search_2-min.jpg",
     "media/worst_case_binary_search_1-min.jpg",
-    "weekly/exercises/2408",
-    "weekly/exercises/2308/230831.md",
-    "weekly/exercises/2406/240617.md",
-    "weekly/exercises/2310/231008.md",
-    "weekly/exercises/2310/231012.md",
-    "media/simplex_log_pt1.jpg",
-    "media/simplex_log_pt2.jpg",
-    "media/simplex_log_pt3.jpg",
-    "weekly/exercises/2406/240609.md",
-    "weekly/exercises/2407",
-    "weekly/exercises/2308/230827.md",
-    "weekly/exercises/2308/230820.md",
-    "media/proof_4.4_pt2.jpg",
-    "media/proof_4.4_pt3.jpg",
-    "media/proof_4.4_pt1.jpg",
+    "media/average_case_binary_search_pt2-min.jpg",
+    "media/aveage_case_binary_search_pt1-min.jpg",
     "weekly/exercises/2405/240527.md",
     "weekly/exercises/2406/240603.md",
-    "weekly/exercises/2406",
-    "weekly/exercises/2402/240211.md",
-    "weekly/exercises/2402/240204.md",
-    "weekly/exercises/2312/231231.md",
-    "2024-05-30.md",
-    "weekly/exercises/2405/240519.md",
-    "weekly/lessonNotes/2402/240204.md",
+    "weekly/exercises/2406/240609.md",
+    "weekly/exercises/2406/240617.md",
+    "weekly/exercises/2407/240717.md",
+    "weekly/exercises/2407/240728.md",
+    "media/simplex_log_pt3.jpg",
+    "media/simplex_log_pt2.jpg",
+    "media/simplex_log_pt1.jpg",
+    "weekly/exercises/2408",
+    "weekly/exercises/2405/240505.md",
+    "media/proof_4.4_pt3.jpg",
+    "media/proof_4.4_pt2.jpg",
+    "media/proof_4.4_pt1.jpg",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
+    "2024-05-30.md",
+    "weekly/exercises/2403/240331.md",
+    "weekly/exercises/2404/240428.md",
+    "weekly/exercises/2405/240519.md",
+    "weekly/exercises/2407",
+    "weekly/exercises/2406",
+    "weekly/exercises/2404/240428_solutions.md",
     "leetc/DynamicProgr/RodCutting.md",
     "weekly/performance/2402/240224.md",
-    "2024-02-04.md",
-    "weekly/exercises/2405/240505.md",
-    "weekly/exercises/2404/240428_solutions.md",
-    "weekly/scratch/2402/240210.md",
-    "weekly/exercises/2404/240428.md",
+    "course_content/feedback/Independence.md",
+    "course_content/feedback/Discrete random variables.md",
+    "course_content/feedback/Quiz2.md",
+    "course_content/feedback",
     "weekly/exercises/2405",
+    "weekly/exercises/2403/240325.md",
+    "weekly/exercises/2403/240303.md",
+    "weekly/exercises/2403/240317.md",
     "weekly/exercises/2404",
     "media/AIBE_schema.csv",
-    "media/AIBE Data Schema Design - Sheet1.csv",
     "weekly/exercises/2403",
-    "weekly/performance/2402",
-    "weekly/performance",
-    "Untitled.canvas"
+    "weekly/scratch/2402",
+    "Untitled.canvas",
+    "Forest.canvas"
   ]
 }
