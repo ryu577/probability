@@ -49,26 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly/exercises/2407/240717.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0cff60b0c63f47c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "weekly/exercises/2408/240825.md",
+                "file": "weekly/exercises/2409/240908.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly/exercises/2408/240825.md",
+                "file": "weekly/exercises/2409/240908.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "weekly/exercises/2408/240825.md",
+                "file": "weekly/exercises/2409/240908.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly/exercises/2408/240825.md"
+                "file": "weekly/exercises/2409/240908.md"
               }
             }
           }
@@ -195,35 +183,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0cff60b0c63f47c",
+  "active": "86ecfa5fe321ca6a",
   "lastOpenFiles": [
-    "media/ross_exericse_m_steps_markov_max.jpg",
-    "media/rotation_matrix.jpg",
-    "media/ross_proof_m_steps_markov.jpg",
+    "weekly/lessonNotes/2402/240204.md",
+    "weekly/exercises/2409/240904.md",
+    "weekly/exercises/2409/240908.md",
+    "media/law_of_total_variance.jpeg",
+    "media/ross_proof_contraction.jpg",
+    "media/shiffrin_11_a_complex_numbers.jpg",
+    "media/shiffrin_11_a_null_space_pt_1.jpg",
+    "weekly/exercises/2408/240825.md",
+    "media/shiffrin_11_a.jpg",
+    "weekly/exercises/2407/240717.md",
+    "2024-09-15.md",
+    "weekly/exercises/2308/230827.md",
+    "weekly/exercises/2308/230820.md",
+    "2024-09-12.md",
+    "weekly/exercises/2308/230831.md",
     "weekly/exercises/2408/240804.md",
     "weekly/exercises/2408/240815.md",
     "weekly/exercises/2408/240818.md",
-    "weekly/exercises/2408/240825.md",
+    "media/ross_exericse_m_steps_markov_max.jpg",
+    "media/rotation_matrix.jpg",
+    "media/ross_proof_m_steps_markov.jpg",
     "media/ross_exercise_double_stochastic.jpg",
-    "weekly/exercises/2409/240904.md",
-    "weekly/exercises/2407/240717.md",
     "weekly/exercises/2407/240728.md",
     "media/average_case_binary_search_pt2-min.jpg",
-    "media/aveage_case_binary_search_pt1-min.jpg",
-    "media/worst_case_binary_search_2-min.jpg",
-    "media/worst_case_binary_search_1-min.jpg",
     "weekly/exercises/2408",
-    "weekly/exercises/2308/230831.md",
     "weekly/exercises/2406/240617.md",
     "weekly/exercises/2310/231008.md",
     "weekly/exercises/2310/231012.md",
-    "media/simplex_log_pt1.jpg",
-    "media/simplex_log_pt2.jpg",
-    "media/simplex_log_pt3.jpg",
     "weekly/exercises/2406/240609.md",
     "weekly/exercises/2407",
-    "weekly/exercises/2308/230827.md",
-    "weekly/exercises/2308/230820.md",
     "weekly/exercises/2405/240527.md",
     "weekly/exercises/2406/240603.md",
     "weekly/exercises/2406",
@@ -232,12 +223,8 @@
     "weekly/exercises/2312/231231.md",
     "2024-05-30.md",
     "weekly/exercises/2405/240519.md",
-    "weekly/lessonNotes/2402/240204.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "leetc/DynamicProgr/RodCutting.md",
-    "weekly/performance/2402/240224.md",
-    "2024-02-04.md",
     "weekly/exercises/2405",
     "weekly/exercises/2404",
     "media/AIBE_schema.csv",
