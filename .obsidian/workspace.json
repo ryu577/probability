@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly/exercises/2409/240908.md",
+                "file": "weekly/exercises/2409/240929.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly/exercises/2409/240908.md",
+                "file": "weekly/exercises/2409/240929.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "weekly/exercises/2409/240908.md",
+                "file": "weekly/exercises/2409/240929.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly/exercises/2409/240908.md"
+                "file": "weekly/exercises/2409/240929.md"
               }
             }
           }
@@ -185,10 +185,14 @@
   },
   "active": "86ecfa5fe321ca6a",
   "lastOpenFiles": [
-    "weekly/exercises/2409/240916.md",
-    "weekly/lessonNotes/2402/240204.md",
-    "weekly/exercises/2409/240904.md",
     "weekly/exercises/2409/240908.md",
+    "weekly/exercises/2409/240916.md",
+    "weekly/exercises/2409/240923.md",
+    "weekly/exercises/2409/240929.md",
+    "weekly/exercises/2406/240617.md",
+    "weekly/exercises/2409/240904.md",
+    "media/law_total_expectation.jpg",
+    "weekly/lessonNotes/2402/240204.md",
     "media/law_of_total_variance.jpeg",
     "media/ross_proof_contraction.jpg",
     "media/shiffrin_11_a_complex_numbers.jpg",
@@ -209,9 +213,7 @@
     "media/ross_proof_m_steps_markov.jpg",
     "media/ross_exercise_double_stochastic.jpg",
     "weekly/exercises/2407/240728.md",
-    "media/average_case_binary_search_pt2-min.jpg",
     "weekly/exercises/2408",
-    "weekly/exercises/2406/240617.md",
     "weekly/exercises/2310/231008.md",
     "weekly/exercises/2310/231012.md",
     "weekly/exercises/2406/240609.md",
@@ -222,8 +224,6 @@
     "weekly/exercises/2402/240211.md",
     "weekly/exercises/2402/240204.md",
     "weekly/exercises/2312/231231.md",
-    "2024-05-30.md",
-    "weekly/exercises/2405/240519.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "weekly/exercises/2405",
