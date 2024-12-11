@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly/exercises/2411/241110.md",
+                "file": "weekly/exercises/2412/241211.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "241110"
+              "title": "241211"
             }
           }
         ],
@@ -249,9 +249,13 @@
   },
   "active": "c53caf32779102d8",
   "lastOpenFiles": [
+    "weekly/exercises/2411/241130.md",
+    "weekly/exercises/2412/241211.md",
+    "weekly/exercises/2412",
+    "weekly/exercises/2411/241125.md",
+    "weekly/exercises/2411/241110.md",
     "weekly/lessonNotes/2402/240204.md",
     "weekly/exercises/2308/230820.md",
-    "weekly/exercises/2411/241110.md",
     "weekly/exercises/2411/241103.md",
     "weekly/exercises/2410/241027.md",
     "weekly/exercises/2410/241013.md",
@@ -284,10 +288,7 @@
     "weekly/exercises/2308/230827.md",
     "2024-09-12.md",
     "weekly/exercises/2308/230831.md",
-    "weekly/exercises/2407/240728.md",
     "weekly/exercises/2408",
-    "weekly/exercises/2310/231008.md",
-    "weekly/exercises/2310/231012.md",
     "weekly/exercises/2407",
     "weekly/exercises/2406",
     "Untitled 2.canvas",
@@ -296,7 +297,6 @@
     "weekly/exercises/2404",
     "media/AIBE_schema.csv",
     "media/AIBE Data Schema Design - Sheet1.csv",
-    "weekly/exercises/2403",
     "Untitled.canvas"
   ]
 }
